@@ -1,0 +1,5 @@
+.env
+domains.txt
+domain_nameservers.csv
+
+.DS_Store
